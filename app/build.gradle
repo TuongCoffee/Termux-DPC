@@ -1,0 +1,17 @@
+plugins {
+	id 'com.android.application'
+}
+
+android {
+	namespace 'com.tuongcoffee.termuxdpc'
+	compileSdk 34
+
+	defaultConfig {
+		applicationId 'com.tuongcoffee.termuxdpc'
+		minSdk 24
+		targetSdk 34
+		versionCode 1
+		versionName '1.0.0'
+	}
+}
+

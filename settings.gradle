@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = 'termux-dpc'
-include: ':app'
+include ':app'
 
